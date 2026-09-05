@@ -1,17 +1,17 @@
 # Image-Steganography-Tool-and-Histogram-Analysis-Python
 
-Activate the virtual environment
+## Activate the virtual environment
 
-.\.venv\Scripts\activate
-
-
-Install the required dependencies
-
-pip install -r requirements.txt
+`.\.venv\Scripts\activate`
 
 
-Both analyze_result.py and stego_tool.py are run separately. to run them,
+## Install the required dependencies
 
-python stego_tool.py
+`pip install -r requirements.txt`
 
-python analyze_result.py
+
+## Both analyze_result.py and stego_tool.py are run separately. to run them,
+
+`python stego_tool.py`
+
+`python analyze_result.py`
